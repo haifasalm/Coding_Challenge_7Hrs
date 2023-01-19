@@ -1,0 +1,15 @@
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\bin\Debug\net6.0\assignmnt2.exe
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\bin\Debug\net6.0\assignmnt2.deps.json
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\bin\Debug\net6.0\assignmnt2.runtimeconfig.json
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\bin\Debug\net6.0\assignmnt2.dll
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\bin\Debug\net6.0\assignmnt2.pdb
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.csproj.AssemblyReference.cache
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.AssemblyInfoInputs.cache
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.AssemblyInfo.cs
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.csproj.CoreCompileInputs.cache
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.dll
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\refint\assignmnt2.dll
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.pdb
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\assignmnt2.genruntimeconfig.cache
+C:\Users\haifa.tv\source\repos\assignmnt2\assignmnt2\obj\Debug\net6.0\ref\assignmnt2.dll
