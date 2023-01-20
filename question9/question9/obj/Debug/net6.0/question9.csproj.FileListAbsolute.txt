@@ -1,0 +1,15 @@
+C:\Users\haifa.tv\source\repos\question9\question9\bin\Debug\net6.0\question9.exe
+C:\Users\haifa.tv\source\repos\question9\question9\bin\Debug\net6.0\question9.deps.json
+C:\Users\haifa.tv\source\repos\question9\question9\bin\Debug\net6.0\question9.runtimeconfig.json
+C:\Users\haifa.tv\source\repos\question9\question9\bin\Debug\net6.0\question9.dll
+C:\Users\haifa.tv\source\repos\question9\question9\bin\Debug\net6.0\question9.pdb
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.csproj.AssemblyReference.cache
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.AssemblyInfoInputs.cache
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.AssemblyInfo.cs
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.csproj.CoreCompileInputs.cache
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.dll
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\refint\question9.dll
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.pdb
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\question9.genruntimeconfig.cache
+C:\Users\haifa.tv\source\repos\question9\question9\obj\Debug\net6.0\ref\question9.dll
